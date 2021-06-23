@@ -1,2 +1,5 @@
-print('Hello world!')
+def hello_world():
+    hello = 'Hello world!'
+    print(hello)
+    return hello
 
