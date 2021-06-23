@@ -1,5 +1,5 @@
 def hello_world():
-    hello = 'Hello world!'
+    hello = 'Hello Earth!'
     print(hello)
     return hello
 
